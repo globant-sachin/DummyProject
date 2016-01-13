@@ -1,1 +1,3 @@
-this is first sample file named sample.txt
+this is first sample file named sample-2.txt
+
+updating sample-2
